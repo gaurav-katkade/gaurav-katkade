@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Katkade</h1>
-<h3 align="center">MERN stack developer ,CSE Student from India</h3>
+<h3 align="center">CSE Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-katkade&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-katkade" /> </p>
 
